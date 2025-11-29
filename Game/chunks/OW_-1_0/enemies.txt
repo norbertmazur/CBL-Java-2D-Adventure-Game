@@ -1,0 +1,1 @@
+GoblinEnemy 200 200
